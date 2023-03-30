@@ -49,7 +49,6 @@ biblatexoptions:
   - backend=biber
   - hyperref=auto
   - language=auto
-  - autolang=other*
   - citestyle=gost-numeric
 ## Pandoc-crossref LaTeX customization
 figureTitle: "Рис."
@@ -108,7 +107,7 @@ header-includes:
 ![Команды git](image/8.png){#fig:008 width=90%}
 
 # Выводы
-В ходе выполнения лабораторной работы я научилась работать с платформой GitHub как через нее непосредственно, так и через терминал системы.
+test makepdf
 
 # Список литературы{.unnumbered}
 
